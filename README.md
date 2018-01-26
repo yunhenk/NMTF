@@ -2,8 +2,8 @@
 An implementation of the paper "Nonnegative Matrix Tri-Factorization with Graph Regularization for Community Detection in Social Networks"
 with python and cudamat.
 
-#Run
+# Run
 1. install the cudamat library
-2. In the function runHashtag() set the needed datapath,and then run.
+2. In the function algorithm_regu_gpu/runHashtag() set the needed datapath,and then run.
 
 
